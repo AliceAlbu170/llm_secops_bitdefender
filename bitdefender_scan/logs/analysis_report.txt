@@ -1,0 +1,79 @@
+ Based on the data provided, here is a list of devices with their respective details:
+
+1. Device ID: 63425f8d1c94b47a02e06006
+   - Name: Alex's MacBook Pro
+   - Operating System: macOS Monterey 12.6.8
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.154
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200073, Engine Version: 7.98796, Signature Outdated: True, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Alex
+   - Move State: 0
+   - Managed With Best: True
+
+2. Device ID: 63425f8d1c94b47a02e06007
+   - Name: Andrei's MacBook Pro
+   - Operating System: macOS Ventura 13.0.1
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.158
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200077, Engine Version: 7.98943, Signature Outdated: False, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Andrei
+   - Move State: 0
+   - Managed With Best: True
+
+3. Device ID: 63425f8d1c94b47a02e06008
+   - Name: Maria's MacBook Pro
+   - Operating System: macOS Sequoia 15.3.2
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.160
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200077, Engine Version: 7.98942, Signature Outdated: False, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Maria
+   - Move State: 0
+   - Managed With Best: True
+
+4. Device ID: 63425f8d1c94b47a02e06009
+   - Name: Bogdan's MacBook Pro
+   - Operating System: macOS Sequoia 15.3.2
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.162
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200077, Engine Version: 7.98942, Signature Outdated: False, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Bogdan
+   - Move State: 0
+   - Managed With Best: True
+
+5. Device ID: 63425f8d1c94b47a02e0600a
+   - Name: Vasile's MacBook Pro
+   - Operating System: macOS Ventura 13.0.1
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.165
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200077, Engine Version: 7.98943, Signature Outdated: False, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Vasile
+   - Move State: 0
+   - Managed With Best: True
+
+6. Device ID: 63425f8d1c94b47a02e0600b
+   - Name: Raluca's MacBook Pro
+   - Operating System: macOS Monterey 12.6.8
+   - Company ID: 61baf84b1289cc62a6317e3f
+   - IP Address: 192.168.0.167
+   - Machine Type: 1
+   - Last Seen: 2025-05-29T08:25:17
+   - Agent Details: Product Version: 7.20.52.200073, Engine Version: 7.98796, Signature Outdated: True, Signature Update Disabled: False, Product Update Disabled: False, Product Outdated: False, Primary Engine: 3, Fallback Engine: null, Licensed: True
+   - Group: Custom Groups (name)
+   - Label: Raluca
+   - Move State: 0
+   - Managed With Best: True

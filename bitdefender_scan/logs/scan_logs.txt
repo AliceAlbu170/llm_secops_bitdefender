@@ -1,0 +1,1811 @@
+Endpoint ID: 61bb21942443e6e2e6512b36
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61bb21942443e6e2e6512b36",
+    "name": "MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.2.0",
+    "policy": {
+      "id": "61c4405fdcc49a4762711ce7",
+      "name": "COERA default policy",
+      "applied": true
+    },
+    "ip": "192.168.3.114",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:02:49",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:07:18",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": false,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": false,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Vlad Farcau",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61d2c57cfb1fb709eb8f5a64
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61d2c57cfb1fb709eb8f5a64",
+    "name": "MacBook Pro (5)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Ventura 13.7.1",
+    "policy": {
+      "id": "663dfd3db6d9205a2f0ba688",
+      "name": "COERA with shadow IT protection - USB Allowed",
+      "applied": true
+    },
+    "ip": "172.16.1.38",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200073",
+      "engineVersion": "7.98792",
+      "lastUpdate": "2025-04-29T20:07:03",
+      "signatureOutdated": true,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-04-30T01:41:01",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Anca Borodi",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61d2de86d57ca8a7c1d2b441
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61d2de86d57ca8a7c1d2b441",
+    "name": "MR-mac",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "61c4405fdcc49a4762711ce7",
+      "name": "COERA default policy",
+      "applied": true
+    },
+    "ip": "192.168.0.102",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:21:51",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:01:17",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": false,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": false,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Mihai Rus",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61d2e029e37ee20a3b983150
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61d2e029e37ee20a3b983150",
+    "name": "Laszlo\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.4.1",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.3.26",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:09:19",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:02:17",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Laszlo Miklosik",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61e583ae0f74a5bf11a98f5a
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61e583ae0f74a5bf11a98f5a",
+    "name": "MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.81",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98942",
+      "lastUpdate": "2025-05-28T15:08:40",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:42:25",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": false,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Raluca Corbos",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61e6cc63df01674f617eb5b5
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61e6cc63df01674f617eb5b5",
+    "name": "MacBook Pro (3)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.50.84",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98938",
+      "lastUpdate": "2025-05-27T20:07:41",
+      "signatureOutdated": true,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:33:25",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Sergiu Lucanu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61e91972bd5160b63717fcf4
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61e91972bd5160b63717fcf4",
+    "name": "Cristian\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.4",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:04:46",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T08:07:44",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Cristian Ielciu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 61e9451cbca52ce127ec21b3
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "61e9451cbca52ce127ec21b3",
+    "name": "Teo's MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.100.69",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T11:11:49",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:41:04",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Alexandru Apavaloaei",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 6200c3c141cee5e0786fd6bf
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "6200c3c141cee5e0786fd6bf",
+    "name": "MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.2.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.190",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T11:12:42",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:47:19",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": false,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Tamas Olah",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 6200d31f44ee7768694e6569
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "6200d31f44ee7768694e6569",
+    "name": "Mirela's MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.9",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:09:32",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T08:52:15",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Mirela Moldovan",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 620b81c214847c82787ec732
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "620b81c214847c82787ec732",
+    "name": "iulia\u2019s MacBook Air",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Ventura 13.3.1",
+    "policy": {
+      "id": "61c4405fdcc49a4762711ce7",
+      "name": "COERA default policy",
+      "applied": true
+    },
+    "ip": "192.168.3.6",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:11:50",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:05:03",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": false,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": false,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Iulia Campean",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 620b8c7af18605ab8b5534ce
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "620b8c7af18605ab8b5534ce",
+    "name": "Dan\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.1",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:05:55",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:46:19",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Dan Micu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 6221173f10fbdba062d85fd0
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "6221173f10fbdba062d85fd0",
+    "name": "Lucian",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.171",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:07:35",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T09:04:31",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Lucian Marginean",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 624d6744b7b3e906f3763d5a
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "624d6744b7b3e906f3763d5a",
+    "name": "Silvia\u2019s MacBook Pro (2)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.1.224",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98942",
+      "lastUpdate": "2025-05-28T15:21:10",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:51:33",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Silvia Pirlea",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 625519af9356f6fe5058cd54
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "625519af9356f6fe5058cd54",
+    "name": "MacBook Pro (Birisan)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "61c4405fdcc49a4762711ce7",
+      "name": "COERA default policy",
+      "applied": true
+    },
+    "ip": "10.10.2.19",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T02:07:05",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T11:15:20",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": false,
+      "advancedThreatControl": false,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": false,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Denisa Birisan",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 62555b18e55ef7fe75a4e9bd
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "62555b18e55ef7fe75a4e9bd",
+    "name": "Mihai\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.3.62",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200073",
+      "engineVersion": "7.98797",
+      "lastUpdate": "2025-04-30T15:12:45",
+      "signatureOutdated": true,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-04-30T16:01:51",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Mihai Leoca",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 625d50ad7795a72be5b2a61e
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "625d50ad7795a72be5b2a61e",
+    "name": "lojo\u2019s MacBook Pro (2)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.206",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:08:32",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:15:03",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Mihai Losonczi",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 627a2d67d80074afd8448559
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "627a2d67d80074afd8448559",
+    "name": "Radu\u2019s MacBook Pro (2)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.1.143",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98943",
+      "lastUpdate": "2025-05-29T03:07:42",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T09:07:24",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Radu Moraru",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 627bbcce5809d6a5ade73f04
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "627bbcce5809d6a5ade73f04",
+    "name": "Laura\u2019s Laptop",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.16",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:08:05",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T09:24:01",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Laura Malcovici",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 62822b0e99740cafdaf8c463
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "62822b0e99740cafdaf8c463",
+    "name": "MacBook Pro (6)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.15",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:04:05",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:53:34",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Diana Vele",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 62b5a7f0fa09279e6ec6d763
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "62b5a7f0fa09279e6ec6d763",
+    "name": "DESKTOP-9MHJ070",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "Windows 11 Pro",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.6",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.9.22.537",
+      "engineVersion": "7.98942",
+      "lastUpdate": "2025-05-28T15:24:21",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-28T16:33:06",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "antiTampering": true,
+      "advancedAntiExploit": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true,
+      "remoteEnginesScanning": false,
+      "riskManagement": true
+    },
+    "label": "Florica Andries",
+    "moveState": 0,
+    "managedWithBest": true,
+    "riskScore": {
+      "value": "41%",
+      "impact": "Medium",
+      "misconfigurations": "32%",
+      "appVulnerabilities": "61%",
+      "humanRisks": "7%"
+    }
+  }
+}
+================================================================================
+
+Endpoint ID: 62bd83f2e5a5a7c54d0dd324
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "62bd83f2e5a5a7c54d0dd324",
+    "name": "Farcasu\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Ventura 13.3.1",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.1.175",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98914",
+      "lastUpdate": "2025-05-28T21:33:05",
+      "signatureOutdated": true,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": true,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T09:52:33",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Stefana Farcasu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 62c524da98ebdf9925217ad1
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "62c524da98ebdf9925217ad1",
+    "name": "Bogdan\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.4.1",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.13",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:09:29",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:00:47",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Bogdan Radu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 631ad72d968d6a9e7ca1713b
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "631ad72d968d6a9e7ca1713b",
+    "name": "MacBook Pro (4)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.1.217",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T09:30:56",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T09:23:46",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": false,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Alexandru Negrea",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 632ace9423bc6caee6dd66b9
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "632ace9423bc6caee6dd66b9",
+    "name": "Alexandru\u2019s MacBook Pro (3)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.5.0",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.142",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98941",
+      "lastUpdate": "2025-05-28T13:06:32",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T11:00:25",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Alexandru Iordache",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 63341a4ec0467fafadd95143
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "63341a4ec0467fafadd95143",
+    "name": "Carina\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.4.1",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.38",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:26:05",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:26:03",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Carina Ghiorghita",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 634e561348431218da85802e
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "634e561348431218da85802e",
+    "name": "Alexandru\u2019s MacBook Pro (2)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "10.10.2.17",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200087",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T10:06:11",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:11:48",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Alexandru Moldovan",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 6368c5bec29a219569bd624f
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "6368c5bec29a219569bd624f",
+    "name": "Laptop (Alina)",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Ventura 13.0.1",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.0.206",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98944",
+      "lastUpdate": "2025-05-29T06:50:49",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T11:16:35",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Bianca Suteu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 6368fa9b1d1c7824a260cf0c
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "6368fa9b1d1c7824a260cf0c",
+    "name": "Stefanescu\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Sequoia 15.3.2",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.1.136",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200077",
+      "engineVersion": "7.98945",
+      "lastUpdate": "2025-05-29T11:05:36",
+      "signatureOutdated": false,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-29T10:07:03",
+    "state": 1,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "Mihai Stefanescu",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
+Endpoint ID: 64099ce08d2ad07f11505192
+{
+  "id": "301f7b05-ec02-481b-9ed6-c07b97de2b7b",
+  "jsonrpc": "2.0",
+  "result": {
+    "id": "64099ce08d2ad07f11505192",
+    "name": "Cristina\u2019s MacBook Pro",
+    "companyId": "61baf84b1289cc62a6317e3f",
+    "operatingSystem": "macOS Monterey 12.6.8",
+    "policy": {
+      "id": "63c63e383527f4884809275f",
+      "name": "COERA with shadow IT protection",
+      "applied": true
+    },
+    "ip": "192.168.3.4",
+    "machineType": 1,
+    "malwareStatus": {
+      "detection": false,
+      "infected": false
+    },
+    "agent": {
+      "type": 3,
+      "productVersion": "7.20.52.200073",
+      "engineVersion": "7.98796",
+      "lastUpdate": "2025-04-30T12:04:06",
+      "signatureOutdated": true,
+      "signatureUpdateDisabled": false,
+      "productUpdateDisabled": false,
+      "productOutdated": false,
+      "primaryEngine": 3,
+      "fallbackEngine": null,
+      "licensed": 1
+    },
+    "lastSeen": "2025-05-04T02:37:53",
+    "state": 0,
+    "group": {
+      "id": "61baf84f1289cc62a6317e45",
+      "name": "Custom Groups"
+    },
+    "modules": {
+      "antimalware": true,
+      "firewall": false,
+      "contentControl": true,
+      "powerUser": false,
+      "deviceControl": true,
+      "advancedThreatControl": true,
+      "applicationControl": false,
+      "encryption": false,
+      "networkAttackDefense": true,
+      "userControl": true,
+      "antiphishing": true,
+      "trafficScan": true
+    },
+    "label": "",
+    "moveState": 0,
+    "managedWithBest": true
+  }
+}
+================================================================================
+
